@@ -1,4 +1,4 @@
-pkg_origin=qbr
+pkg_origin=qbrd
 pkg_name=consul
 pkg_version=1.2.2
 pkg_maintainer='The Habitat Maintainers <humans@habitat.sh>'
